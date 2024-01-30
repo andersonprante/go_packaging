@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 
-	"anderson.prante/estudo_packaging/internal/child"
-	"anderson.prante/estudo_packaging/internal/logging"
+	"github.com/andersonprante/go_packaging/internal/child"
+	"github.com/andersonprante/go_packaging/internal/logging"
 	_ "github.com/mattn/go-sqlite3"
 )
 

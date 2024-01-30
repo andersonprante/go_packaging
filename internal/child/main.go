@@ -1,6 +1,6 @@
 package child
 
-import "anderson.prante/estudo_packaging/internal/logging"
+import "github.com/andersonprante/go_packaging/internal/logging"
 
 func SomeFunction() {
 	// Use the shared logger instance from the parent package

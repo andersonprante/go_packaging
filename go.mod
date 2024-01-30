@@ -1,4 +1,4 @@
-module anderson.prante/estudo_packaging
+module github.com/andersonprante/go_packaging
 
 go 1.21.5
 
